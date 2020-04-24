@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gorkemaygun/gorkemaygun.github.io/weather-app/precache-manifest.112f690ddba9445c8ea001e430828706.js"
+  "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/precache-manifest.fe0c8d7d4d7da7b73aebd93aef18478c.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/gorkemaygun/gorkemaygun.github.io/weather-app/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });

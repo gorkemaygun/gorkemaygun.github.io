@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/css/main.a67bdf3c.chunk.css",
-    "main.js": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/main.4126958e.chunk.js",
-    "main.js.map": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/main.4126958e.chunk.js.map",
-    "runtime-main.js": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/runtime-main.f0396c21.js",
-    "runtime-main.js.map": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/runtime-main.f0396c21.js.map",
-    "static/css/2.74189dbb.chunk.css": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/css/2.74189dbb.chunk.css",
-    "static/js/2.eaf0ea03.chunk.js": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/2.eaf0ea03.chunk.js",
-    "static/js/2.eaf0ea03.chunk.js.map": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/2.eaf0ea03.chunk.js.map",
-    "index.html": "/gorkemaygun/gorkemaygun.github.io/weather-app/index.html",
-    "precache-manifest.112f690ddba9445c8ea001e430828706.js": "/gorkemaygun/gorkemaygun.github.io/weather-app/precache-manifest.112f690ddba9445c8ea001e430828706.js",
-    "service-worker.js": "/gorkemaygun/gorkemaygun.github.io/weather-app/service-worker.js",
-    "static/css/2.74189dbb.chunk.css.map": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.a67bdf3c.chunk.css.map": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/css/main.a67bdf3c.chunk.css.map",
-    "static/js/2.eaf0ea03.chunk.js.LICENSE.txt": "/gorkemaygun/gorkemaygun.github.io/weather-app/static/js/2.eaf0ea03.chunk.js.LICENSE.txt"
+    "main.css": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/css/main.a67bdf3c.chunk.css",
+    "main.js": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/main.6f40f9a7.chunk.js",
+    "main.js.map": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/main.6f40f9a7.chunk.js.map",
+    "runtime-main.js": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/runtime-main.acd50fdf.js",
+    "runtime-main.js.map": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/runtime-main.acd50fdf.js.map",
+    "static/css/2.74189dbb.chunk.css": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/css/2.74189dbb.chunk.css",
+    "static/js/2.eaf0ea03.chunk.js": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/2.eaf0ea03.chunk.js",
+    "static/js/2.eaf0ea03.chunk.js.map": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/2.eaf0ea03.chunk.js.map",
+    "index.html": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/index.html",
+    "precache-manifest.fe0c8d7d4d7da7b73aebd93aef18478c.js": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/precache-manifest.fe0c8d7d4d7da7b73aebd93aef18478c.js",
+    "service-worker.js": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.a67bdf3c.chunk.css.map": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/css/main.a67bdf3c.chunk.css.map",
+    "static/js/2.eaf0ea03.chunk.js.LICENSE.txt": "/gorkemaygun/gorkemaygun.github.io/gorkemaygun.github.io/static/js/2.eaf0ea03.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0396c21.js",
+    "static/js/runtime-main.acd50fdf.js",
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.eaf0ea03.chunk.js",
     "static/css/main.a67bdf3c.chunk.css",
-    "static/js/main.4126958e.chunk.js"
+    "static/js/main.6f40f9a7.chunk.js"
   ]
 }
